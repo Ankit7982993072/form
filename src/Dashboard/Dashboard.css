@@ -1,0 +1,39 @@
+.create{
+    height:50px;
+    width:250px;
+    border-radius:unset;
+    background-color: rgb(97, 213, 233);
+}
+a{
+    margin-left: 500px;
+}
+.AK{
+    text-align: left;
+    padding-left: 60px;
+    padding-top: 30px;
+    /* border: 3px solid white; */
+    height:150px;
+    width:900px;
+    margin:auto;
+    
+    margin-bottom: 20px;
+    /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
+    border-left:5px solid ;
+    border: 5px solid;
+  border-image-slice: 1;
+    border-image-source: 
+    linear-gradient(
+      to right, 
+       red,
+        orange,
+        blue 
+       
+    ) ;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, white, lightpink
+
+    );
+    opacity:0.9;
+    font-family:cursive;
+    /* border-bottom:10px solid linear-gradient(to right, red,orange); */
+}
